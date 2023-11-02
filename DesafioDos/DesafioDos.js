@@ -69,4 +69,31 @@ let z = 2;
 //Segundo paso para mi hay que pedir que ingrese un texto:
 let nombre = prompt("Por favor, ingrese un texto el que quiera: ");
         console.log(`Su texto que ingresó fue: ${nombre}`);
-        //console.log ("Ahora lo vamos a convertir en lenguaje hacker");
+        console.log ("Ahora lo vamos a convertir en lenguaje hacker");
+// tercero es convertir el texto
+
+//cuarto publicarlo
+
+
+//Razonamiento
+/*lo que para mi tengo que hacer es declarar todas las variables, despues pido que ingrese un texto y lo convierto pero con una function, para mi que se llame hacker y con en el que es while mientras A = 4, ahora que lo pienso no es necesario declararlas
+while a  = 4, 
+
+function numeroALetra(numero) {
+    if (numero >= 1 && numero <= 26) {
+        return String.fromCharCode(64 + numero);
+    } else {
+        return "Fuera de rango";
+    }
+}
+
+console.log(numeroALetra(4)); // "D"
+console.log(numeroALetra(26)); // "Z"
+console.log(numeroALetra(30)); // "Fuera de rango"
+
+let contador = 1;
+
+while (contador <= 5) {
+    console.log(contador);
+    contador++;
+}*/ 
