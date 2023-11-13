@@ -12,11 +12,12 @@
 // y como en el anterior una declaracion con todo el abecedario, los numeros y simbolos.
 //para mi es una function llamada paswordrandom()
 
-//PRIMER PASO: Declaración de variables
+//PRIMER PASO: Declaración de variables - LISTO
 
-//SEGUNDO PASO: Crear una función
+//SEGUNDO PASO: Crear una función- LISTO
 
 //TERCER PASO: Dentro de la funcion buscar algo que los mezcle a todas esas variables
+//Falta descubrir algo que haga eso, un map puede ser? todavía sigo leyendo e investigando!
 
 //CUARTO PASO: Que lo devuelva a la funcion
 
@@ -24,4 +25,12 @@
 const vocabulary = [
     'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '!', '$', '%', '&', '/', '(', ')', '=', '?', '¿', '+', '-', '~'
   ];
+
+  //ya tengo todo declara y ahora tengo que hacer una function que cada vez cuando la llame genere una contraseña con todas esas variables.
+
+  function paswordrandom (){
+
+    return"";
+
+  }
   
